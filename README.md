@@ -2,6 +2,10 @@
 
 This folder contains the complete step-by-step Python code for demonstrating Foundry Agent Memory with a Trail Finder Agent.
 
+# Watch the Video for Step by Step process.
+
+[![Video Title](https://img.youtube.com/vi/FeXExW2C0d4/0.jpg)](https://www.youtube.com/watch?v=FeXExW2C0d4)
+
 ## Prerequisites
 
 1. Azure subscription with Foundry project
@@ -105,3 +109,4 @@ python step9_cleanup.py
 - Agent names must match across steps
 - Scope values must be consistent for the same user
 - Each step is independent but builds on previous setup
+
